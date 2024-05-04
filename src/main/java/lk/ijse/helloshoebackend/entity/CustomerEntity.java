@@ -39,7 +39,7 @@ import java.util.List;
         private String email;
         private Timestamp recentPurchasedDate;
 
-        @OneToMany(mappedBy = "customerEntity",cascade = CascadeType.ALL)
-        private List<OrderEntity> orderEntities;
+       /* @OneToMany(mappedBy = "customerEntity",cascade = CascadeType.ALL)
+        private List<OrderEntity> orderEntities;*/
 
     }
