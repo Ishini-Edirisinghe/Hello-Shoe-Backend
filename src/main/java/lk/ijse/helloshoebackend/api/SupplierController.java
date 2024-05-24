@@ -1,7 +1,7 @@
 package lk.ijse.helloshoebackend.api;
 
-import lk.ijse.helloshoebackend..dto.SupplierDTO;
-import lk.ijse.helloshoebackend..exception.NotFoundException;
+import lk.ijse.helloshoebackend.dto.SupplierDTO;
+import lk.ijse.helloshoebackend.exception.NotFoundException;
 import lk.ijse.helloshoebackend.service.SupplierService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

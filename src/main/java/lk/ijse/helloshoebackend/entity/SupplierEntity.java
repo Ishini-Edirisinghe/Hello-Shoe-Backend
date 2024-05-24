@@ -1,7 +1,7 @@
 package lk.ijse.helloshoebackend.entity;
 
 import jakarta.persistence.*;
-import lk.ijse.shoeshopmanagementbackend.Enum.Category;
+import lk.ijse.helloshoebackend.Enum.Category;
 import lombok.Data;
 
 import java.util.List;

@@ -1,7 +1,7 @@
 package lk.ijse.helloshoebackend.dto;
 
 import jakarta.validation.constraints.*;
-import lk.ijse.shoeshopmanagementbackend.Enum.Category;
+import lk.ijse.helloshoebackend.Enum.Category;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

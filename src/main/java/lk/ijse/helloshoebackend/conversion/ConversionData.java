@@ -3,7 +3,13 @@ package lk.ijse.helloshoebackend.conversion;
 import com.codeventlk.helloshoemanagementsystem.dto.*;
 import com.codeventlk.helloshoemanagementsystem.entity.*;*/
 import lk.ijse.helloshoebackend.dto.CustomerDTO;
+import lk.ijse.helloshoebackend.dto.EmployeeDTO;
+import lk.ijse.helloshoebackend.dto.SupplierDTO;
+import lk.ijse.helloshoebackend.dto.UserDTO;
 import lk.ijse.helloshoebackend.entity.CustomerEntity;
+import lk.ijse.helloshoebackend.entity.EmployeeEntity;
+import lk.ijse.helloshoebackend.entity.SupplierEntity;
+import lk.ijse.helloshoebackend.entity.UserEntity;
 import lombok.AllArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Component;
