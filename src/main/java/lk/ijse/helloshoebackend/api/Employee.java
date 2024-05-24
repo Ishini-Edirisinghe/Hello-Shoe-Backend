@@ -1,4 +1,4 @@
-package lk.ijse.helloshoebackend.controller;
+package lk.ijse.helloshoebackend.api;
 
 import lk.ijse.helloshoebackend.Enum.Gender;
 import lk.ijse.helloshoebackend.Enum.Status;

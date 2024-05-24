@@ -1,4 +1,4 @@
-package lk.ijse.helloshoebackend.dao;
+package lk.ijse.helloshoebackend.repository;
 
 import lk.ijse.helloshoebackend.entity.EmployeeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
